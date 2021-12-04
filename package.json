@@ -1,0 +1,14 @@
+{
+  "name": "send_emails",
+  "version": "1.0.0",
+  "description": "'A simple app to send emails from nodejs'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manasvi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.7.2"
+  }
+}
